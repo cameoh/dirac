@@ -1,5 +1,5 @@
 ### 最新版本
-v0.9.5 更新于2016年11月20日 [下载APK](https://github.com/cameoh/dirac/releases/download/v0.9.5/dirac-v0.9.5.apk)
+v0.9.7 更新于2017年6月28日 [下载APK](https://github.com/cameoh/dirac/releases/download/v0.9.7/dirac-v0.9.7.apk)
 
 ### 功能介绍
 * 阅览十大和分区热门文章
@@ -11,6 +11,13 @@ v0.9.5 更新于2016年11月20日 [下载APK](https://github.com/cameoh/dirac/re
 * 查看用户详细资料
 
 ### 更新日志
+* v0.9.7 2017年6月28日  
+修复服务器修改导致图片不能加载的问题  
+增加清除图片缓存功能
+
+* v0.9.6 2017年1月1日  
+首页增加吸顶效果
+
 * v0.9.5 2016年11月20日  
 版面帖子列表上滑隐藏顶部工具栏  
 修复帖子重复的bug
