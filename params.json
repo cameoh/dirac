@@ -1,6 +1,0 @@
-{
-  "name": "水木人",
-  "tagline": "水木，首先是一种心情，然后是一种生活方式",
-  "body": "### 最新版本\r\nv0.9.5 更新于2016年11月20日 [下载APK](https://github.com/cameoh/dirac/releases/download/v0.9.5/dirac-v0.9.5.apk)\r\n\r\n### 功能介绍\r\n* 阅览十大和分区热门文章\r\n* 搜索版面\r\n* 阅览版面文章\r\n* 收藏版面\r\n* 阅览文章，查看图片，支持GIF\r\n* 登录，发表文章，回复文章，分享文章\r\n* 查看用户详细资料\r\n\r\n### 更新日志\r\n* v0.9.5 2016年11月20日  \r\n版面帖子列表上滑隐藏顶部工具栏  \r\n修复帖子重复的bug\r\n\r\n* v0.9.4 2016年11月18日  \r\n增加收藏版面功能  \r\n优化分屏支持\r\n\r\n* v0.9.3 2016年11月12日  \r\n统一图片加载库  \r\n提高稳定性\r\n\r\n* v0.9.2 2016年9月25日  \r\n增加分享文章功能  \r\n提高稳定性\r\n\r\n* v0.9.1 2016年9月14日  \r\n从网络下载IP库，大大减小应用体积  \r\n提高稳定性\r\n\r\n* v0.9.0 2016年9月10日  \r\n应用上线\r\n\r\n### 建议与反馈\r\n有关水木人的问题、建议或反馈可发送邮件到<newsmth.app@gmail.com>",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}

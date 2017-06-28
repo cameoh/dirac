@@ -1,0 +1,8 @@
+title: 水木人
+description: 水木，首先是一种心情，然后是一种生活方式
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-modernist
+
+gems:
+  - jekyll-mentions
