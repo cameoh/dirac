@@ -1,5 +1,5 @@
 ### 最新版本
-v0.9.7 更新于2017年6月28日 [下载APK](https://github.com/cameoh/dirac/releases/download/v0.9.7/dirac-v0.9.7.apk)
+v0.9.8 更新于2017年6月30日 [下载APK](https://github.com/cameoh/dirac/releases/download/v0.9.8/dirac-v0.9.8.apk)
 
 ### 功能介绍
 * 阅览十大和分区热门文章
@@ -11,6 +11,9 @@ v0.9.7 更新于2017年6月28日 [下载APK](https://github.com/cameoh/dirac/rel
 * 查看用户详细资料
 
 ### 更新日志
+* v0.9.7 2017年6月28日  
+修复服务器修改导致头像不能加载的问题  
+
 * v0.9.7 2017年6月28日  
 修复服务器修改导致图片不能加载的问题  
 增加清除图片缓存功能
