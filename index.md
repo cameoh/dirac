@@ -1,5 +1,5 @@
 ### 最新版本
-v0.9.9 更新于2017年7月7日 [下载APK](https://github.com/cameoh/dirac/releases/download/v0.9.9/dirac-v0.9.9.apk)
+v0.9.10 更新于2017年11月19日 [下载APK](https://github.com/cameoh/dirac/releases/download/v0.9.10/dirac-v0.9.10.apk)
 
 ### 功能介绍
 * 阅览十大和分区热门文章
@@ -11,6 +11,11 @@ v0.9.9 更新于2017年7月7日 [下载APK](https://github.com/cameoh/dirac/rele
 * 查看用户详细资料
 
 ### 更新日志
+* v0.9.10 2017年11月19日  
+在内存中保存未发表的文章草稿  
+完善加载失败重试、加载到文章列表末尾刷新的处理  
+升级依赖库
+
 * v0.9.9 2017年7月7日  
 默认开启HTTPS，用户可手动关闭  
 补充版面数据
