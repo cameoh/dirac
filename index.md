@@ -1,5 +1,5 @@
 ### 最新版本
-v0.9.12 更新于2017年11月24日 [下载APK](https://github.com/cameoh/dirac/releases/download/v0.9.12/dirac-v0.9.12.apk)
+v0.9.14 更新于2017年12月2日 [下载APK](https://github.com/cameoh/dirac/releases/download/v0.9.14/dirac-v0.9.14.apk)
 
 ### 功能介绍
 * 阅览十大和分区热门文章
@@ -11,6 +11,10 @@ v0.9.12 更新于2017年11月24日 [下载APK](https://github.com/cameoh/dirac/r
 * 查看用户详细资料
 
 ### 更新日志
+* v0.9.14 2017年12月2日  
+增加图片缩放功能  
+可播放音频附件
+
 * v0.9.12 2017年11月24日  
 补充6个需要登录才能浏览的版面
 
