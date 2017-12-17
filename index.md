@@ -1,5 +1,5 @@
 ### 最新版本
-v0.9.15 更新于2017年12月10日 [下载APK](https://github.com/cameoh/dirac/releases/download/v0.9.15/dirac-v0.9.15.apk)
+v0.9.16 更新于2017年12月17日 [下载APK](https://github.com/cameoh/dirac/releases/download/v0.9.16/dirac-v0.9.16.apk)
 
 ### 功能介绍
 * 阅览十大和分区热门文章
@@ -12,6 +12,10 @@ v0.9.15 更新于2017年12月10日 [下载APK](https://github.com/cameoh/dirac/r
 * 查看用户详细资料
 
 ### 更新日志
+* v0.9.16 2017年12月17日  
+增加夜间模式  
+适配Android Oreo
+
 * v0.9.15 2017年12月10日  
 增加搜索版面文章功能  
 修复bug
