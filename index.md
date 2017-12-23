@@ -1,5 +1,5 @@
 ### 最新版本
-v0.9.16 更新于2017年12月17日 [下载APK](https://github.com/cameoh/dirac/releases/download/v0.9.16/dirac-v0.9.16.apk)
+v0.9.17 更新于2017年12月23日 [下载APK](https://github.com/cameoh/dirac/releases/download/v0.9.17/dirac-v0.9.17.apk)
 
 ### 功能介绍
 * 阅览十大和分区热门文章
@@ -12,6 +12,11 @@ v0.9.16 更新于2017年12月17日 [下载APK](https://github.com/cameoh/dirac/r
 * 查看用户详细资料
 
 ### 更新日志
+* v0.9.17 2017年12月23日  
+可保存图片到手机相册（需要 WRITE_EXTERNAL_STORAGE 权限，Android 6及以上系统仅在使用此功能时申请权限）  
+分享图片到微信，QQ，Facebook，Google+，Instagram，Twitter，you name it  
+适配全面屏
+
 * v0.9.16 2017年12月17日  
 增加夜间模式  
 适配Android Oreo
