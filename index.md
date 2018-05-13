@@ -1,5 +1,5 @@
 ### 最新版本
-v0.9.19 更新于2018年2月17日 [下载APK](https://github.com/cameoh/dirac/releases/download/v0.9.19/dirac-v0.9.19.apk)
+v0.9.20 更新于2018年5月13日 [下载APK](https://github.com/cameoh/dirac/releases/download/v0.9.20/dirac-v0.9.20.apk)
 
 ### 功能介绍
 * 阅览十大和分区热门文章
@@ -13,6 +13,9 @@ v0.9.19 更新于2018年2月17日 [下载APK](https://github.com/cameoh/dirac/re
 * 查看用户详细资料
 
 ### 更新日志
+* v0.9.20 2018年5月13日  
+更新依赖库
+
 * v0.9.19 2018年2月17日  
 新增区块链等版面，在设置页面提供手动更新选项
 
